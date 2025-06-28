@@ -4,12 +4,10 @@ I'm a cybersecurity enthusiast skilled in web application penetration testing an
 
 
 🛠 Skills
-
 Cybersecurity (Priority 1):  
 Penetration Testing: Web application testing, OWASP Top 10 (XSS, CSRF, SQL Injection)  
 Tools: Burp Suite, Nmap, Metasploit, SQLMap  
 Scripting: Python, Bash for automation
-
 
 Web Development (Priority 2):  
 Frontend: HTML5, CSS3, JavaScript, Flexbox, Grid, Media Queries  
@@ -18,7 +16,6 @@ CMS: WordPress (theme and plugin development)
 UI/UX Design: Figma for wireframing, prototyping, and interface design  
 SEO & Optimization: On-page SEO, meta tags, image optimization, code minification, fast load times
 
-
 Artificial Intelligence & Machine Learning (Priority 3):  
 Programming: Python, NumPy, Pandas  
 Models: Regression, classification, clustering  
@@ -26,8 +23,6 @@ Neural Networks: TensorFlow, Keras (basic)
 Text Processing: Basic NLP and sentiment analysis  
 Tools: Jupyter Notebook, Google Colab  
 Data Handling: Data cleaning and preprocessing for modeling
-
-
 
 📫 Contact Me
 LinkedIn: linkedin.com/in/parsa-khanjani  
