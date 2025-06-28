@@ -4,6 +4,7 @@ I'm a cybersecurity enthusiast skilled in web application penetration testing an
 
 
 🛠 Skills
+
 Cybersecurity (Priority 1):  
 Penetration Testing: Web application testing, OWASP Top 10 (XSS, CSRF, SQL Injection)  
 Tools: Burp Suite, Nmap, Metasploit, SQLMap  
