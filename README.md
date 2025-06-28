@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Parsa Khanjani
 
-<!--
-**parsa-khanjani/parsa-khanjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity enthusiast skilled in web application penetration testing and identifying OWASP Top 10 vulnerabilities using tools like Burp Suite and Metasploit. I'm also a proficient web developer, experienced in building modern, responsive websites with HTML5, CSS3, JavaScript, and WordPress. Additionally, I have knowledge in artificial intelligence and machine learning, working with Python and TensorFlow for data analysis and modeling.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+
+Cybersecurity (Priority 1):  
+Penetration Testing: Web application testing, OWASP Top 10 (XSS, CSRF, SQL Injection)  
+Tools: Burp Suite, Nmap, Metasploit, SQLMap  
+Scripting: Python, Bash for automation
+
+
+Web Development (Priority 2):  
+Frontend: HTML5, CSS3, JavaScript, Flexbox, Grid, Media Queries  
+Backend: PHP, MySQL (CRUD operations, database design)  
+CMS: WordPress (theme and plugin development)  
+UI/UX Design: Figma for wireframing, prototyping, and interface design  
+SEO & Optimization: On-page SEO, meta tags, image optimization, code minification, fast load times
+
+
+Artificial Intelligence & Machine Learning (Priority 3):  
+Programming: Python, NumPy, Pandas  
+Models: Regression, classification, clustering  
+Neural Networks: TensorFlow, Keras (basic)  
+Text Processing: Basic NLP and sentiment analysis  
+Tools: Jupyter Notebook, Google Colab  
+Data Handling: Data cleaning and preprocessing for modeling
+
+
+
+📫 Contact Me
+LinkedIn: linkedin.com/in/parsa-khanjani  
+Telegram: t.me/Th_PRSA
+Email: khanjanyparsa@gmail.com
+
