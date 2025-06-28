@@ -23,9 +23,3 @@ Neural Networks: TensorFlow, Keras (basic)
 Text Processing: Basic NLP and sentiment analysis  
 Tools: Jupyter Notebook, Google Colab  
 Data Handling: Data cleaning and preprocessing for modeling
-
-📫 Contact Me
-LinkedIn: linkedin.com/in/parsa-khanjani  
-Telegram: t.me/Th_PRSA
-Email: khanjanyparsa@gmail.com
-
