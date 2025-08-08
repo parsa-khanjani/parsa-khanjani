@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm parsa khanjani</h1>
-<h3 align="center">A front-end developer and cybersecurity analyst from Tehran, Iran</h3>
+<h3 align="center">A full-stack developer and cybersecurity analyst from Tehran, Iran.</h3>
 
 - 👯 I’m looking to collaborate on **security tools & frontend projects**
 
